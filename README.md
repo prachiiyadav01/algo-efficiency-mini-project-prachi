@@ -1,0 +1,1 @@
+This project demonstrates how different algorithmic strategies can be applied to real-world problems. The notebook includes implementations, performance profiling, and complexity analysis for each problem. The strategies covered include Greedy Algorithms, Dynamic Programming, Backtracking, and Brute Force.
